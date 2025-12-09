@@ -4,12 +4,12 @@ This repository contains the three key projects completed during my internship, 
 
 ---
 
-## 📌 1. Portfolio Risk Assessment & 1-Day 95% Value at Risk (VaR) Estimation
+## 1. Portfolio Risk Assessment & 1-Day 95% Value at Risk (VaR) Estimation
 
-### 🔹 Description
+###  Description
 Analyzed historical stock data and estimated 1-Day 95% VaR using multiple statistical methods.
 
-### 🔹 Key Work
+###  Key Work
 - Used Python, Pandas, yFinance, and SciPy to compute daily log returns.
 - Estimated VaR using:
   - Normal Distribution  
@@ -19,12 +19,12 @@ Analyzed historical stock data and estimated 1-Day 95% VaR using multiple statis
 
 ---
 
-## 📌 2. Website A/B Testing for Conversion Optimization
+## 2. Website A/B Testing for Conversion Optimization
 
-### 🔹 Description
+###  Description
 Simulated e-commerce user funnels to evaluate conversion improvements through statistical A/B testing.
 
-### 🔹 Key Work
+###  Key Work
 - Simulated checkout funnels and compared conversion rates between variants.
 - Conducted statistical analysis using:
   - Z-tests  
@@ -34,12 +34,12 @@ Simulated e-commerce user funnels to evaluate conversion improvements through st
 
 ---
 
-## 📌 3. Call Center Operations Optimization: A Simulation-Based Approach
+## 3. Call Center Operations Optimization: A Simulation-Based Approach
 
-### 🔹 Description
+###  Description
 Developed simulation models to optimize call center performance and staffing efficiency.
 
-### 🔹 Key Work
+###  Key Work
 - Built M/M/1 and M/M/s queueing simulations.
 - Modeled Poisson arrivals, exponential service times, and customer abandonment.
 - Evaluated performance metrics:
@@ -49,10 +49,9 @@ Developed simulation models to optimize call center performance and staffing eff
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 **Python** — Pandas, NumPy, SciPy, Statsmodels  
 **Visualization** — Matplotlib, Seaborn  
 **Concepts** — VaR, A/B Testing, Queueing Theory, Simulation Modeling
 
----
 
